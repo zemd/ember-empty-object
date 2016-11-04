@@ -1,0 +1,19 @@
+{
+  "name": "ember-empty-object",
+  "version": "1.0.0",
+  "description": "Empty object utility extracted from Ember.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zemd/ember-empty-object"
+  },
+  "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zemd/ember-empty-object/issues"
+  },
+  "homepage": "https://github.com/zemd/ember-empty-object",
+  "dependencies": {},
+  "devDependencies": {}
+}
