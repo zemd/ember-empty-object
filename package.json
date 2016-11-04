@@ -1,6 +1,6 @@
 {
   "name": "ember-empty-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Empty object utility extracted from Ember.js",
   "main": "index.js",
   "scripts": {},
